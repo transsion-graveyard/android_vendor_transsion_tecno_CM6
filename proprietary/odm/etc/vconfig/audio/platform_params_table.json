@@ -1,0 +1,11 @@
+{
+  "TECNO CM6": {
+    "learn_delay_frame": 2203,
+    "adapter_en": 1,
+    "amortize_factor": 50,
+    "feature_mean": 12.0,
+    "learn_update_limit": 5,
+    "snr_switch_en": 0,
+    "snr_switch_thr": 12
+  }
+}
